@@ -1,1 +1,1 @@
-## Please visit my new [Jupyter Blog](https://vimarshc.github.io/jupyterblog/)
+## Please visit my blog at https://vimarshc.github.io/jupyterblog/
